@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LGJ.ClothingSale.IdentityServerApi</name>
+    </assembly>
+    <members>
+        <member name="T:LGJ.ClothingSale.IdentityServerApi.Filters.IdentityServerFilterAttribute">
+            <summary>
+            服装批发接口过滤器
+            </summary>
+        </member>
+    </members>
+</doc>

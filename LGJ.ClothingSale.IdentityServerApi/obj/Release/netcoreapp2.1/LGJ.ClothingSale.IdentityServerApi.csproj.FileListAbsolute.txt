@@ -1,0 +1,14 @@
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.IdentityServerApi\bin\Release\netcoreapp2.1\LGJ.ClothingSale.IdentityServerApi.deps.json
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.IdentityServerApi\bin\Release\netcoreapp2.1\LGJ.ClothingSale.IdentityServerApi.runtimeconfig.json
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.IdentityServerApi\bin\Release\netcoreapp2.1\LGJ.ClothingSale.IdentityServerApi.runtimeconfig.dev.json
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.IdentityServerApi\bin\Release\netcoreapp2.1\LGJ.ClothingSale.IdentityServerApi.dll
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.IdentityServerApi\bin\Release\netcoreapp2.1\LGJ.ClothingSale.IdentityServerApi.pdb
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.IdentityServerApi\obj\Release\netcoreapp2.1\LGJ.ClothingSale.IdentityServerApi.csproj.CoreCompileInputs.cache
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.IdentityServerApi\obj\Release\netcoreapp2.1\LGJ.ClothingSale.IdentityServerApi.RazorAssemblyInfo.cache
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.IdentityServerApi\obj\Release\netcoreapp2.1\LGJ.ClothingSale.IdentityServerApi.RazorAssemblyInfo.cs
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.IdentityServerApi\obj\Release\netcoreapp2.1\LGJ.ClothingSale.IdentityServerApi.AssemblyInfoInputs.cache
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.IdentityServerApi\obj\Release\netcoreapp2.1\LGJ.ClothingSale.IdentityServerApi.AssemblyInfo.cs
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.IdentityServerApi\obj\Release\netcoreapp2.1\LGJ.ClothingSale.IdentityServerApi.RazorTargetAssemblyInfo.cache
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.IdentityServerApi\obj\Release\netcoreapp2.1\LGJ.ClothingSale.IdentityServerApi.dll
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.IdentityServerApi\obj\Release\netcoreapp2.1\LGJ.ClothingSale.IdentityServerApi.pdb
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.IdentityServerApi\obj\Release\netcoreapp2.1\LGJ.ClothingSale.IdentityServerApi.csprojAssemblyReference.cache

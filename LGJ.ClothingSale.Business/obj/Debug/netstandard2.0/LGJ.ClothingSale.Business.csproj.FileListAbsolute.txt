@@ -1,0 +1,16 @@
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\bin\Debug\netstandard2.0\LGJ.ClothingSale.Business.deps.json
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\bin\Debug\netstandard2.0\LGJ.ClothingSale.Business.dll
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\obj\Debug\netstandard2.0\LGJ.ClothingSale.Business.csprojAssemblyReference.cache
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\obj\Debug\netstandard2.0\LGJ.ClothingSale.Business.csproj.CoreCompileInputs.cache
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\obj\Debug\netstandard2.0\LGJ.ClothingSale.Business.AssemblyInfoInputs.cache
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\obj\Debug\netstandard2.0\LGJ.ClothingSale.Business.AssemblyInfo.cs
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\bin\Debug\netstandard2.0\LGJ.ClothingSale.Business.pdb
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\bin\Debug\netstandard2.0\LGJ.ClothingSale.DataAccess.dll
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\bin\Debug\netstandard2.0\LGJ.ClothingSale.Models.dll
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\bin\Debug\netstandard2.0\LGJ.ClothingSale.DataAccess.pdb
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\bin\Debug\netstandard2.0\LGJ.ClothingSale.Models.pdb
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\obj\Debug\netstandard2.0\LGJ.ClothingSale.Business.csproj.CopyComplete
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\obj\Debug\netstandard2.0\LGJ.ClothingSale.Business.dll
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\obj\Debug\netstandard2.0\LGJ.ClothingSale.Business.pdb
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml

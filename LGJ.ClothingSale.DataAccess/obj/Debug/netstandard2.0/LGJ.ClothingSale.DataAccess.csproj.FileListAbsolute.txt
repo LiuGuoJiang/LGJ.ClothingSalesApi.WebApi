@@ -1,0 +1,8 @@
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.DataAccess\bin\Debug\netstandard2.0\LGJ.ClothingSale.DataAccess.deps.json
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.DataAccess\bin\Debug\netstandard2.0\LGJ.ClothingSale.DataAccess.dll
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.DataAccess\obj\Debug\netstandard2.0\LGJ.ClothingSale.DataAccess.csproj.CoreCompileInputs.cache
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.DataAccess\obj\Debug\netstandard2.0\LGJ.ClothingSale.DataAccess.AssemblyInfoInputs.cache
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.DataAccess\obj\Debug\netstandard2.0\LGJ.ClothingSale.DataAccess.AssemblyInfo.cs
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.DataAccess\bin\Debug\netstandard2.0\LGJ.ClothingSale.DataAccess.pdb
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.DataAccess\obj\Debug\netstandard2.0\LGJ.ClothingSale.DataAccess.dll
+D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.DataAccess\obj\Debug\netstandard2.0\LGJ.ClothingSale.DataAccess.pdb
