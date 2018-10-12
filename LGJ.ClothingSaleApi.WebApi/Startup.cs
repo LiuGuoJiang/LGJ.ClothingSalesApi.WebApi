@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
+using LGJ.ClothingSale.Business.Redis;
 using LGJ.ClothingSale.Business.Services.ClothingOrders;
 using LGJ.ClothingSale.DataAccess.Repositories.Orders;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -16,8 +17,10 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Microsoft.IdentityModel.Logging;
 using Microsoft.IdentityModel.Tokens;
 using Swashbuckle.AspNetCore.Swagger;
+using WeihanLi.Redis;
 
 namespace LGJ.ClothingSaleApi.WebApi
 {
@@ -25,6 +28,7 @@ namespace LGJ.ClothingSaleApi.WebApi
     {
         public Startup(IConfiguration configuration)
         {
+            WeihanLi.Common.Helpers.LogHelper.LogInit();
             Configuration = configuration;
         }
 
@@ -36,6 +40,7 @@ namespace LGJ.ClothingSaleApi.WebApi
             //添加项目内的依赖注入
             services.TryAddScoped<IClothingOrderService, ClothingOrderService>();
             services.TryAddScoped<ClothingOrderRepository>();
+            services.TryAddScoped<IRedisService,RedisService>();
             services.AddAuthentication(options =>
                 {
                     options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -48,7 +53,12 @@ namespace LGJ.ClothingSaleApi.WebApi
                     options.Audience = "mySalesApi";
                     options.Authority = "http://localhost:7072";
                 });
-
+            services.AddRedisConfig(config =>
+            {
+                config.CachePrefix = "LGJ.ClothingSaleApi.WebApi";
+                config.ChannelPrefix = "LGJ.ClothingSaleApi.WebApi";
+                config.EnableCompress = false;
+            });
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddAutoMapper();
 #if DEBUG
