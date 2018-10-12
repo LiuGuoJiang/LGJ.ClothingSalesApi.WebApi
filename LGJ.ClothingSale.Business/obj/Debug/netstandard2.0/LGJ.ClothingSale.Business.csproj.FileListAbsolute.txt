@@ -12,5 +12,3 @@ D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\bin\Debug\nets
 D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\obj\Debug\netstandard2.0\LGJ.ClothingSale.Business.csproj.CopyComplete
 D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\obj\Debug\netstandard2.0\LGJ.ClothingSale.Business.dll
 D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\obj\Debug\netstandard2.0\LGJ.ClothingSale.Business.pdb
-D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
-D:\VueDemos\LGJ.ClothingSalesApi.WebApi\LGJ.ClothingSale.Business\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
